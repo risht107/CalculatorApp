@@ -58,7 +58,6 @@
             android:layout_height="20dp"
             android:layout_gravity="center"
             android:paddingStart="10dp"
-            android:text="Rishan Tilve"
             android:textColor="@android:color/white"
             android:textSize="15dp" />
 
