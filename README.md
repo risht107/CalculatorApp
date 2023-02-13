@@ -1,1 +1,5 @@
 # CalculatorApp
+
+Mobile Weather App This weather app was made using Android Studio, the official integrated development environment for the Android operating system by Google. This repository contains the major files from the application such as the MainActivity and XML (layout code) files. The entire ZIP file is also available to download in order to run the app on a user's own emulator.
+
+This application is a four function calculator that can carry out a variety of functions. The calculator allows the user to enter an equation using all four math operations. Once the "=" button is pressed, the correct result is returned using the PEMDAS method. Imperfect answers are returned in decimal form. When entering an equation, a delete button is available to remove the last entered operation or number. If an invalid equation is entered, such as two consecutive operations or dividing by 0, an "error" message is returned but the app is prevented from crashing. The layout of the app mimics that of the Apple version of a calculator with orange buttons and black background. 
